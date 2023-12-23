@@ -1567,6 +1567,17 @@ Each member of a class has an associated accessibility, which controls the regio
 | Destructors   | Actions to perform before instances of the class are permanently discarded |
 | Types         | Nested types declared by the class                           |
 
+**Default access modifier:-**
+Class/Struct is **Internal** by default.
+
+Class/Struct members are **private** by default.
+
+Interface is **Internal** by default.
+
+Interface members are **public** by default. (Interfaces won't allow us to specify any kind of accessibility to it's members.)
+
+Note: If you try to specify any access specifier to interface's members then, it shows compile error.
+
 ### Inheritance
 
 Inheritance allows a class to acquire the members of another class. It allows to define a class based on another class. This makes creating and maintaining an application easy.
