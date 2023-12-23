@@ -381,8 +381,9 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-speci
 There are following three terminologies are used to declare C# and .NET naming standards.
 
 - **Camel Case (camelCase):** In this standard, the first letter of the word always in small letter and after that each word starts with a capital letter.
-- **Pascal Case (PascalCase):** In this the first letter of every word is in capital letter.
+- **Pascal Case (PascalCase/UpperCamelCase):** In this the first letter of every word is in capital letter.
 - **Underscore Prefix (_underScore):** For underscore ( __ ), the word after _ use camelCase terminology.
+- **Snake Case (snake_case):** underscore between words and in small
 
 ### Summary Table
 
