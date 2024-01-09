@@ -291,7 +291,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/
 ---
 
 ## C# Preprocessor Directives
-
+The preprocessor directives give instruction to the compiler to preprocess the information before actual compilation starts.
 C# has the following preprocessor directives:
 
 - \#if
